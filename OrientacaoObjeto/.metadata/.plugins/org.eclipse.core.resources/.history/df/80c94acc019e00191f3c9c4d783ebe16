@@ -1,0 +1,22 @@
+package br.com.matheusmenezesdacosta.termostato;
+import br.com.matheusmenezesdacosta.core.Display;
+import br.com.matheusmenezesdacosta.core.Formatter;
+
+public class TermostatoDisplay extends Display<Termostato> {
+
+	private Termostato termostato;
+	Formatter<Termostato> formatacao;
+	
+	public TermostatoDisplay(Termostato termostato, Formatter<Termostato> formatacaotermostato) {
+		this.termostato = termostato;
+		this.formatacao = formatacaotermostato;
+	}
+
+	@Override
+	public void show() {
+		String sentence = formatacao.formatter(termostato);
+		System.out.println(sentence);
+	}
+	
+
+}

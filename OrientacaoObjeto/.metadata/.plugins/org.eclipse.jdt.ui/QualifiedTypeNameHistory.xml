@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="br.com.matheusmenezesdacosta.termostato.Termostato"/>
+<fullyQualifiedTypeName name="br.com.matheusmenezesdacosta.termostato.TermostatoFormatter"/>
+<fullyQualifiedTypeName name="br.com.matheusmenezesdacosta.termostato.TermostatoDisplay"/>
+<fullyQualifiedTypeName name="br.com.matheusmenezesdacosta.radiorelogio.RadioRelogio"/>
+<fullyQualifiedTypeName name="br.com.matheusmenezesdacosta.radiorelogio.RadioRelogioFormatter"/>
+<fullyQualifiedTypeName name="br.com.matheusmenezesdacosta.radiorelogio.RadioRelogioDisplay"/>
+<fullyQualifiedTypeName name="br.com.matheusmenezesdacosta.radiofm.RadioFM"/>
+<fullyQualifiedTypeName name="br.com.matheusmenezesdacosta.radiofm.RadioFMFormatter"/>
+<fullyQualifiedTypeName name="br.com.matheusmenezesdacosta.radiofm.RadioFMDisplay"/>
+<fullyQualifiedTypeName name="br.com.matheusmenezesdacosta.core.Display"/>
+<fullyQualifiedTypeName name="br.com.matheusmenezesdacosta.core.Formatter"/>
+<fullyQualifiedTypeName name="br.com.matheusmenezesdacosta.calendario.Calendario"/>
+<fullyQualifiedTypeName name="br.com.matheusmenezesdacosta.calendario.CalendarioFormatter"/>
+<fullyQualifiedTypeName name="br.com.matheusmenezesdacosta.calendario.CalendarioDisplay"/>
+</qualifiedTypeNameHistroy>
